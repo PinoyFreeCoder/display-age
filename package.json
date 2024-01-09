@@ -1,6 +1,6 @@
 {
   "name": "@pinoyfreecoder/display-age",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package will show the age based on birthday",
   "main": "index.js",
   "scripts": {
