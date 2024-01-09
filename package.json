@@ -12,6 +12,10 @@
     "show",
     "age"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PinoyFreeCoder/display-age"
+  },
   "author": "pinoyfreecoder",
   "license": "ISC"
 }
