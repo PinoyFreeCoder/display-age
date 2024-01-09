@@ -4,7 +4,7 @@
   "description": "This package will show the age based on birthday",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "age",
@@ -17,5 +17,10 @@
     "url": "https://github.com/PinoyFreeCoder/display-age"
   },
   "author": "pinoyfreecoder",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.0",
+    "jest": "^29.7.0",
+    "mocha": "^10.2.0"
+  }
 }
