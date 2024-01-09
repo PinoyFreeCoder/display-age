@@ -1,0 +1,17 @@
+{
+  "name": "@pinoyfreecoder/display-age",
+  "version": "1.0.0",
+  "description": "This package will show the age based on birthday",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "age",
+    "birthday",
+    "show",
+    "age"
+  ],
+  "author": "pinoyfreecoder",
+  "license": "ISC"
+}
