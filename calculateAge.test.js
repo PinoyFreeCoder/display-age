@@ -1,4 +1,4 @@
-const calculateAge = require("@pinoyfreecoder/display-age");
+const calculateAge = require("./index");
 
 describe("calculateAge", () => {
   it("should calculate the age correctly when the birthday is in the past", () => {
